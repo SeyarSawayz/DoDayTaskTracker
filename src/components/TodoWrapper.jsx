@@ -51,7 +51,7 @@ const TodoWrapper = () => {
     >
       <div className="flex flex-col items-center md:container pb-10  mx-4 md:mx-auto bg-cyan-700 min-h-[60vh] md:w-2/4 mt-24 rounded-md my-4">
         <h1 className="m-4 text-white font-bold text-3xl">
-          DoDay Task Tracker
+          DoDay Online Task Tracker
         </h1>
         <div className="flex  justify-center mb-4">
           <TodoForm />
