@@ -19,7 +19,7 @@ const Todos = ({ item }) => {
     <>
       <div
         className={`todo bg-slate-200 w-3/4 flex items-center justify-between h-16 px-4 rounded mt-8 overflow-hidden ${
-          item.completed ? "bg-red-400" : ""
+          item.completed ? "bg-red-600" : ""
         } `}
       >
         <div className="flex gap-3">
